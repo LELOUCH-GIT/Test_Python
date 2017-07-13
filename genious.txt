@@ -1,0 +1,5 @@
+本文档包括对python的学习认识
+对象：python
+标识：python
+用<>表示对比
+python（标识）：{python<>{C++ \/ C}}
